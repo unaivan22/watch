@@ -7,11 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A36F4AC42A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AC32A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf */; };
+		A36F4AC52A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AC32A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf */; };
+		A36F4AC72A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AC62A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf */; };
+		A36F4AC82A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AC62A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf */; };
+		A36F4ACA2A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AC92A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf */; };
+		A36F4ACB2A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AC92A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf */; };
+		A36F4AD02A9A7C3A00FAF9FF /* Oi-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4ACF2A9A7C3A00FAF9FF /* Oi-Regular.ttf */; };
+		A36F4AD12A9A7C3A00FAF9FF /* Oi-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4ACF2A9A7C3A00FAF9FF /* Oi-Regular.ttf */; };
+		A36F4AD62A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AD52A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf */; };
+		A36F4AD72A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AD52A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf */; };
+		A36F4AD92A9A7EE600FAF9FF /* PoiretOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AD82A9A7EE600FAF9FF /* PoiretOne-Regular.ttf */; };
+		A36F4ADA2A9A7EE600FAF9FF /* PoiretOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A36F4AD82A9A7EE600FAF9FF /* PoiretOne-Regular.ttf */; };
 		A372B6A12A9A340C0014BC12 /* clocktheme Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = A372B6A02A9A340C0014BC12 /* clocktheme Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		A372B6A62A9A340C0014BC12 /* clockthemeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A372B6A52A9A340C0014BC12 /* clockthemeApp.swift */; };
 		A372B6A82A9A340C0014BC12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A372B6A72A9A340C0014BC12 /* ContentView.swift */; };
 		A372B6AA2A9A340F0014BC12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A372B6A92A9A340F0014BC12 /* Assets.xcassets */; };
 		A372B6AD2A9A340F0014BC12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A372B6AC2A9A340F0014BC12 /* Preview Assets.xcassets */; };
+		A372B6BF2A9A57A00014BC12 /* StyleOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A372B6BE2A9A57A00014BC12 /* StyleOne.swift */; };
+		A372B6C12A9A58250014BC12 /* StyleTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A372B6C02A9A58250014BC12 /* StyleTwo.swift */; };
+		A372B6C32A9A583D0014BC12 /* StyleThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A372B6C22A9A583D0014BC12 /* StyleThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,12 +54,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A36F4AC32A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MoiraiOne-Regular.ttf"; sourceTree = "<group>"; };
+		A36F4AC62A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Silkscreen-Regular.ttf"; sourceTree = "<group>"; };
+		A36F4AC92A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ZenTokyoZoo-Regular.ttf"; sourceTree = "<group>"; };
+		A36F4ACF2A9A7C3A00FAF9FF /* Oi-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oi-Regular.ttf"; sourceTree = "<group>"; };
+		A36F4AD52A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BungeeOutline-Regular.ttf"; sourceTree = "<group>"; };
+		A36F4AD82A9A7EE600FAF9FF /* PoiretOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PoiretOne-Regular.ttf"; sourceTree = "<group>"; };
 		A372B69A2A9A340C0014BC12 /* clocktheme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = clocktheme.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A372B6A02A9A340C0014BC12 /* clocktheme Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "clocktheme Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A372B6A52A9A340C0014BC12 /* clockthemeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clockthemeApp.swift; sourceTree = "<group>"; };
 		A372B6A72A9A340C0014BC12 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A372B6A92A9A340F0014BC12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A372B6AC2A9A340F0014BC12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A372B6BB2A9A56AC0014BC12 /* clocktheme-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "clocktheme-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		A372B6BE2A9A57A00014BC12 /* StyleOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleOne.swift; sourceTree = "<group>"; };
+		A372B6C02A9A58250014BC12 /* StyleTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleTwo.swift; sourceTree = "<group>"; };
+		A372B6C22A9A583D0014BC12 /* StyleThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,10 +103,14 @@
 		A372B6A42A9A340C0014BC12 /* clocktheme Watch App */ = {
 			isa = PBXGroup;
 			children = (
+				A372B6BB2A9A56AC0014BC12 /* clocktheme-Watch-App-Info.plist */,
 				A372B6A52A9A340C0014BC12 /* clockthemeApp.swift */,
 				A372B6A72A9A340C0014BC12 /* ContentView.swift */,
 				A372B6A92A9A340F0014BC12 /* Assets.xcassets */,
 				A372B6AB2A9A340F0014BC12 /* Preview Content */,
+				A372B6BE2A9A57A00014BC12 /* StyleOne.swift */,
+				A372B6C02A9A58250014BC12 /* StyleTwo.swift */,
+				A372B6C22A9A583D0014BC12 /* StyleThree.swift */,
 			);
 			path = "clocktheme Watch App";
 			sourceTree = "<group>";
@@ -89,6 +118,12 @@
 		A372B6AB2A9A340F0014BC12 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				A36F4AC92A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf */,
+				A36F4AC32A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf */,
+				A36F4ACF2A9A7C3A00FAF9FF /* Oi-Regular.ttf */,
+				A36F4AD52A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf */,
+				A36F4AC62A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf */,
+				A36F4AD82A9A7EE600FAF9FF /* PoiretOne-Regular.ttf */,
 				A372B6AC2A9A340F0014BC12 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -173,6 +208,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A36F4AC72A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf in Resources */,
+				A36F4AD62A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf in Resources */,
+				A36F4AD02A9A7C3A00FAF9FF /* Oi-Regular.ttf in Resources */,
+				A36F4ACA2A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf in Resources */,
+				A36F4AC42A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf in Resources */,
+				A36F4AD92A9A7EE600FAF9FF /* PoiretOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -180,6 +221,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A36F4ACB2A9A5FC000FAF9FF /* ZenTokyoZoo-Regular.ttf in Resources */,
+				A36F4AD12A9A7C3A00FAF9FF /* Oi-Regular.ttf in Resources */,
+				A36F4AD72A9A7CB600FAF9FF /* BungeeOutline-Regular.ttf in Resources */,
+				A36F4AC82A9A5EDE00FAF9FF /* Silkscreen-Regular.ttf in Resources */,
+				A36F4AC52A9A5E8800FAF9FF /* MoiraiOne-Regular.ttf in Resources */,
+				A36F4ADA2A9A7EE600FAF9FF /* PoiretOne-Regular.ttf in Resources */,
 				A372B6AD2A9A340F0014BC12 /* Preview Assets.xcassets in Resources */,
 				A372B6AA2A9A340F0014BC12 /* Assets.xcassets in Resources */,
 			);
@@ -192,8 +239,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A372B6C12A9A58250014BC12 /* StyleTwo.swift in Sources */,
 				A372B6A82A9A340C0014BC12 /* ContentView.swift in Sources */,
 				A372B6A62A9A340C0014BC12 /* clockthemeApp.swift in Sources */,
+				A372B6C32A9A583D0014BC12 /* StyleThree.swift in Sources */,
+				A372B6BF2A9A57A00014BC12 /* StyleOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,7 +378,9 @@
 				DEVELOPMENT_TEAM = 8Q3PX4UV37;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "clocktheme-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = clocktheme;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -358,7 +410,9 @@
 				DEVELOPMENT_TEAM = 8Q3PX4UV37;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "clocktheme-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = clocktheme;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
